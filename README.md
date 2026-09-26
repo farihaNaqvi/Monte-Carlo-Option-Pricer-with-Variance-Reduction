@@ -16,9 +16,9 @@ The program includes:
 
 ## Files
 
-- `MonteCarloPricer.java` — main implementation
-- `MonteCarloPricer.class` — compiled Java class (generated output)
-- `.gitignore` — standard Git ignore file
+- `MonteCarloPricer.java` - main implementation
+- `MonteCarloPricer.class` - compiled Java class (generated output)
+- `.gitignore` - standard Git ignore file
 
 ## Core pricing approach
 
